@@ -1,0 +1,118 @@
+[
+    {
+        "id":1,
+        "company":"Adobe",
+        "logo":"./images/adobe.png",
+        "isnew":true,
+        "links":"https://adobe.wd5.myworkdayjobs.com/external_experienced",
+        "position":"Junior Developer",
+        "role":"Frontent",
+        "level":"senior",
+        "Posted":"1d ago",
+        "contract":"Full Time",
+        "location":"Remote",
+        "languages":["Frontend","React","Javascript"]
+    },
+    {
+        "id":2,
+        "company":"Google",
+        "logo":"./images/google.png",
+        "links":"https://careers.google.com/jobs/results/?distance=50&hl=en_US&jlo=en_US&location=India&q=",
+        "isnew":true,
+        "featured":true,
+        "position":"Senior Developer",
+        "role":"Frontent",
+        "level":"senior",
+        "Posted":"1d ago",
+        "contract":"Full Time",
+        "location":"Pune only",
+        "languages":["MERN","Database","Ds-Algo"]
+    },
+    {
+        "id":3,
+        "company":"Shopify",
+        "logo":"./images/shopify.png",
+    
+        "featured":true,
+        "position":"Data Analyst",
+        "role":"Frontent",
+        "level":"senior",
+        "Posted":"5d ago",
+        "contract":"Full Time",
+        "location":"Noida only",
+        "languages":["Backend","SQL"]
+    },
+
+    {
+        "id":5,
+        "company":"khatabook",
+        "logo":"./images/khatabook.png",
+
+  
+        "position":"App developer",
+        "role":"",
+        "level":"senior",
+        "Posted":"3d ago",
+        "contract":"Full Time",
+        "location":"Banglore Only",
+        "languages":["Flutter","React Native","Javascript"]
+    },
+    {
+        "id":6,
+        "company":"Wipro",
+        "logo":"./images/wipro.png",
+        "isnew":true,
+        "featured":true,
+        "position":"Project Engineer",
+        "role":"Frontend",
+        "level":"senior",
+        "Posted":"1d ago",
+        "contract":"Full Time",
+        "location":"Gurgaon only",
+        "languages":["Fullstack","HTML","CSS","Javascript"]
+    },
+    {
+        "id":7,
+        "company":"Grofers",
+        "logo":"./images/grofers.png",
+      
+        
+        "position":"Senior Developer",
+        "role":"Frontent",
+        "level":"senior",
+        "Posted":"1d ago",
+        "contract":"Full Time",
+        "location":"Delhi only",
+        "languages":["HTML","CSS","Javascript"]
+    },
+    {
+        "id":8,
+        "company":"Amazon",
+        "logo":"./images/amazon.png",
+      
+        
+        "position":"Senior Developer",
+        "role":"Frontend",
+        "level":"senior",
+        "Posted":"1d ago",
+        "contract":"Full Time",
+        "location":"Hyderabad only",
+        "languages":["React","CSS","Javascript"]
+    },
+    {
+        "id":9,
+        "company":"Flipkart",
+        "logo":"./images/flipkart.png",
+        "isnew":true,
+        
+        "position":"Junior Developer",
+        "role":"Frontent",
+        "level":"senior",
+        "Posted":"13d ago",
+        "contract":"Full Time",
+        "location":"Delhi , Pune only",
+        "languages":["Oracle","CSS","Javascript"]
+    }
+
+
+]

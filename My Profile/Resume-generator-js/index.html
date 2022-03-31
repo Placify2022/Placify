@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <title>Profile</title>
+</head>
+<body>
+    <div class="menu-items">
+        <ul class="nav-links">
+            <li><a href="../../Dashboard/index.html">
+                <i class="uil uil-estate"></i>
+                <span class="link-name">Home</span>
+            </a></li>
+        </ul>
+
+    <form class="input-fields">
+          <h1 style="text-align: center;">Resume</h1>
+          <br><input type="text" name="name" placeholder="Name" /></br>
+          <br><input type="text" name="title" placeholder="Title eg web developer" /></br>
+          <br><textarea name="workexp" placeholder="Work Experience"></textarea></br>
+          <br><textarea name="academics" placeholder="Academic Details"></textarea></br>
+          <br><input name="objective" placeholder="Objective" /></br>
+          <br><textarea name="skills" placeholder="Skills" ></textarea></br>
+          <br><textarea name="projects" placeholder="Projects" ></textarea></br>
+          <br><textarea name="achievements" placeholder="Achievements" ></textarea></br>
+          <br><textarea name="contact" placeholder="Contact" ></textarea></br>
+    </form>
+     <!-- resume preview -->
+    <div class="output">
+   
+    </div>  
+    <!-- button for toggle   -->
+   <div class="btn">
+        <button onclick="toggle()">Preview or edit</button>
+   </div>
+   </div>
+   <script src="https://cdn.ckeditor.com/ckeditor5/27.1.0/classic/ckeditor.js"></script>
+    <script src="./app.js"></script>
+</body>
+</html>
